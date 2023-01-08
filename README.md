@@ -2,7 +2,7 @@
 Dataset taken from kaggle (https://www.kaggle.com/datasets/cristobalmitchell/pokedex?resource=download)
 
 ### Visualization script
-When executing the script from the command line, the option to present two system arguments is available. After the 
+When executing the ``visualization.py`` script from the command line, the option to present two system arguments is available. After the 
 system argument representing the dataset, you have the option of choosing a specific Pokémon to use in the generation 
 of the weakness chart, or if a Pokémon name is not input, a random one will be selected.
 
