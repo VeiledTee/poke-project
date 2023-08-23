@@ -1,5 +1,5 @@
 # poke-project
-Dataset taken from kaggle (https://www.kaggle.com/datasets/cristobalmitchell/pokedex?resource=download)
+Dataset taken from [kaggle](https://www.kaggle.com/datasets/cristobalmitchell/pokedex?resource=download)
 
 ### Visualization script
 When executing the ``visualization.py`` script from the command line, the option to present two system arguments is available. After the 
